@@ -13,7 +13,7 @@ hero:
       link: /guides
     - theme: alt
       text: 预览
-      link: https://siliang.gitee.io/element-plus-admin-pure/
+      link: https://element-plus-admin-pure.gitee.io/element-plus-admin-pure/
 features:
   - icon: 
       src: /images/javascript-original.svg
