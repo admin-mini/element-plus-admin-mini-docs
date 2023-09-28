@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,Q as p}from"./chunks/framework.38acacb6.js";const u=JSON.parse('{"title":"必要环境","description":"","frontmatter":{},"headers":[],"relativePath":"guides.md","filePath":"guides.md"}'),e={name:"guides.md"},l=p("",9),o=[l];function t(c,r,i,d,E,y){return a(),n("div",null,o)}const g=s(e,[["render",t]]);export{u as __pageData,g as default};

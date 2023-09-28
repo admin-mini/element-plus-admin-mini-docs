@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,Q as o}from"./chunks/framework.38acacb6.js";const h=JSON.parse('{"title":"前后端数据交互规范","description":"","frontmatter":{},"headers":[],"relativePath":"api.md","filePath":"api.md"}'),t={name:"api.md"},l=o("",10),p=[l];function e(c,r,E,d,i,y){return a(),n("div",null,p)}const q=s(t,[["render",e]]);export{h as __pageData,q as default};

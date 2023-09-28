@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   ignoreDeadLinks: true,
-  assetsDir: 'images',
+  base: "/element-plus-admin-pure-docs/",
   title: "element-plus-admin-pure",
   description: "A VitePress Site",
   themeConfig: {
