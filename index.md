@@ -4,7 +4,7 @@ layout: home
 
 hero:
 
-  name: "Element-Plus-Admin-Pure"
+  name: "Element-Plus-Admin-mini"
   text: "纯净的 VUE3+Element-Plus 后端框架"
   tagline: 主打一个干干净净
   actions:
@@ -13,7 +13,7 @@ hero:
       link: /guides
     - theme: alt
       text: 预览
-      link: https://element-plus-admin-pure.gitee.io/element-plus-admin-pure/
+      link: https://admin-mini.gitee.io/element-plus-admin-mini/
 features:
   - icon: 
       src: /images/javascript-original.svg
